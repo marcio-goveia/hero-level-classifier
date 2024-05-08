@@ -1,2 +1,5 @@
 # hero-level-classifier
-desafio da dio
+Desafio da dio
+
+## Como executar
+Abra o arquivo index.html no browser
